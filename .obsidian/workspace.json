@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c91f7f230761c67",
+        "id": "2073350c2b7b8e5d",
         "type": "tabs",
         "children": [
           {
-            "id": "c4f93569263608b2",
+            "id": "b0e9a1d2ecb0564e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
+                "file": "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "TM-NETWORK 配線・接続メモ"
             }
           }
         ]
@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,8 +199,13 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "c4f93569263608b2",
+  "active": "b0e9a1d2ecb0564e",
   "lastOpenFiles": [
+    "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
+    "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
+    "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
+    "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
+    "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
     "無題のファイル 4.canvas",
     "無題のファイル.canvas",
     "無題のファイル 8.canvas",
@@ -209,12 +215,7 @@
     "無題のファイル 3.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル 1.canvas",
-    "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
-    "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
-    "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
     "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
-    "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
-    "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
     "デイリーノート 2026/2026.09/2026-09-21（月）.md",
     "デイリーノート 2026/2026.09/2026-09-20（日）.md",
     "Radio.sh と 事前準備.md",
