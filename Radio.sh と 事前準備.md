@@ -86,7 +86,6 @@ echo "再生中: $station_name"
 mpv "$station_url"
 EOF
 
-chmod +x ~/radio.sh
 ```
 
 後処理
