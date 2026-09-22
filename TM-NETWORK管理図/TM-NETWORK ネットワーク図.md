@@ -39,11 +39,11 @@ XR500
  │
  ├─ PS4
  │
- ├─ スマホ1
- │　TorqueG07
+ ├─ スマホ1[TorqueG07]
+ │　 IP:192.168.1.7
  │
- └─ スマホ2
-     Torque5G　
+ └─ スマホ2[Torque5G]
+     IP:192.168.1.10　
 
  
  [[TM-NETWORK Mermaid図]]

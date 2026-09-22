@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "88b4c97588f61553",
+        "id": "ad385799f7429c4b",
         "type": "tabs",
         "children": [
           {
-            "id": "af6a3e449df19dba",
+            "id": "a1cedf2e79d67de2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
+                "file": "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TM-NETWORK Mermaid図"
+              "title": "TM-NETWORK ネットワーク図"
             }
           }
         ]
@@ -199,15 +199,15 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "af6a3e449df19dba",
+  "active": "a1cedf2e79d67de2",
   "lastOpenFiles": [
+    "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
+    "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
+    "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
     "Radio.sh と 事前準備.md",
     "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
-    "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
     "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
-    "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
-    "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
     "無題のファイル 4.canvas",
     "無題のファイル.canvas",
     "無題のファイル 8.canvas",
