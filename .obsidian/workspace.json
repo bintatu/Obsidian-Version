@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21ddef71588f0f0d",
+        "id": "1b7b4700054dfa34",
         "type": "tabs",
         "children": [
           {
-            "id": "1afd00ba43eee134",
+            "id": "fb3d717214689edb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,13 +195,13 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "1afd00ba43eee134",
+  "active": "fb3d717214689edb",
   "lastOpenFiles": [
-    "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
+    "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
+    "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
     "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
-    "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
     "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
     "無題のファイル 4.canvas",
     "無題のファイル.canvas",
