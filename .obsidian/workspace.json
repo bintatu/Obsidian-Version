@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2073350c2b7b8e5d",
+        "id": "21ddef71588f0f0d",
         "type": "tabs",
         "children": [
           {
-            "id": "b0e9a1d2ecb0564e",
+            "id": "1afd00ba43eee134",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TM-NETWORK 配線・接続メモ"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "b0e9a1d2ecb0564e",
+  "active": "1afd00ba43eee134",
   "lastOpenFiles": [
+    "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
     "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
     "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
@@ -215,7 +212,6 @@
     "無題のファイル 3.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル 1.canvas",
-    "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "デイリーノート 2026/2026.09/2026-09-21（月）.md",
     "デイリーノート 2026/2026.09/2026-09-20（日）.md",
     "Radio.sh と 事前準備.md",
