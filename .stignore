@@ -1,0 +1,13 @@
+(?d).thumbnails
+(?d)Thumbs.db
+(?d).nomedia
+(?d).obsidian/app.json
+(?d).obsidian/appearance.json
+(?d).obsidian/core-plugin.json
+(?d).obsidian/graph.json
+(?d).obsidian/workspace-mobile.json
+(?d)(?i).obsidian/workspace*
+(?d)(?i).obsidian/core-plugins*
+(?d)(?i).obsidian/config*
+(?d)(?i)sync-conflict-*
+(?d)(?i).DS_Store

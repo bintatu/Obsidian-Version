@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "4df580e775b78355",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c91f7f230761c67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4f93569263608b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "321723e72ba2c265",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb78e4ce394374ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c8d09ed25a81221",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "b964aef71fa024f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "196d5ee0445a4102",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6409378bd4c5d2ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "b091a7b24b54e72d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09d86922e4aaeb5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TM-NETWORK管理図/TM-NETWORK Mermaid図(2026.07初版).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "TM-NETWORK Mermaid図(2026.07初版)へのバックリンク"
+            }
+          },
+          {
+            "id": "59def0d29d7011d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ(2026.07初版).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "TM-NETWORK 配線・接続メモ(2026.07初版)からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "66b630bcc8036c03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "60d94faa240889fd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "822595f23dcdfbb1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          },
+          {
+            "id": "437d72a7f5c8544c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "c4f93569263608b2",
+  "lastOpenFiles": [
+    "無題のファイル 4.canvas",
+    "無題のファイル.canvas",
+    "無題のファイル 8.canvas",
+    "無題のファイル 7.canvas",
+    "無題のファイル 6.canvas",
+    "無題のファイル 5.canvas",
+    "無題のファイル 3.canvas",
+    "無題のファイル 2.canvas",
+    "無題のファイル 1.canvas",
+    "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
+    "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
+    "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
+    "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
+    "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
+    "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
+    "デイリーノート 2026/2026.09/2026-09-21（月）.md",
+    "デイリーノート 2026/2026.09/2026-09-20（日）.md",
+    "Radio.sh と 事前準備.md",
+    "Now Core 開発指示書（案）.md",
+    "Liunx ログイン時に天気を出してみる(Ver0.2).md",
+    "Liunx ログイン時に天気を出してみる(Ver0.1).md",
+    "Linux コマンド 注意報.md",
+    "Linuxに天気を出させてみる（Core化プロジェクト）.md",
+    "Linuxに天気を出させてみる（Core化プロジェクト）進捗ファイル.md",
+    "藍ちゃんのRockな一言.md",
+    "藍ちゃんとの音楽談義.md",
+    "藍ちゃんおすすめ。ネットラジオ局.md",
+    "欲しい物リスト（環境編）.md",
+    "目次.base",
+    "付箋なつぶやき（リンク集）.md",
+    "付箋なつぶやき.md",
+    "宅内表示計画 AI スマートスピーカ（改）M5 Stack表示器計画.md",
+    "宅内表示計画.md",
+    "宅内同期計画.md",
+    "宅内通信計画.md",
+    "デイリーノート 2026/2026.09",
+    "デイリーノート 2026/2026.08",
+    "デイリーノート 2026/2026.07",
+    "デイリーノート 2026/2026.07",
+    "デイリーノート 2026.07/~syncthing~2026-07-01（す.md.tmp",
+    "~syncthing~Syncthink同期.md.tmp",
+    "~syncthing~.trashed-1787406158-Syncthink同期.md.tmp",
+    "~syncthing~12月糖尿病内科.md.tmp",
+    "~syncthing~スマホリンクテスト。.md.tmp"
+  ]
+}
