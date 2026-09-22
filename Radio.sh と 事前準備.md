@@ -95,3 +95,11 @@ cp ...
 chmod +x ~/radio.sh
 alias radio='~/radio.sh'
 ```
+登録したら一度だけ
+```bash
+echo "alias radio='~/radio.sh'" >> ~/.bashrc
+```
+おまじない
+```bash
+source ~/.bashrc
+```

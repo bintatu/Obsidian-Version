@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b7b4700054dfa34",
+        "id": "acaf0f8bc1b5bb0e",
         "type": "tabs",
         "children": [
           {
-            "id": "fb3d717214689edb",
+            "id": "2a1c703c88146ecd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "fb3d717214689edb",
+  "active": "2a1c703c88146ecd",
   "lastOpenFiles": [
+    "Radio.sh と 事前準備.md",
     "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
     "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
     "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
@@ -214,7 +215,6 @@
     "無題のファイル 1.canvas",
     "デイリーノート 2026/2026.09/2026-09-21（月）.md",
     "デイリーノート 2026/2026.09/2026-09-20（日）.md",
-    "Radio.sh と 事前準備.md",
     "Now Core 開発指示書（案）.md",
     "Liunx ログイン時に天気を出してみる(Ver0.2).md",
     "Liunx ログイン時に天気を出してみる(Ver0.1).md",
