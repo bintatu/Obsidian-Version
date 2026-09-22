@@ -12,3 +12,6 @@ Your boss climbed the corporate ladder, wrong by wrong.
 Libtool shared library portability is only slightly more believable than
 perpetual motion machines.  Especially on AIX :)."
         -- David Leimbach
+        
+Ultime dalla Societa' Autostrade: "Occorre investire di piu'!".
+                -- Da it.hobby.umorismo
