@@ -93,7 +93,7 @@ OS：
 機器名：スマートフォン1
 型番：Torque G07
 IP：192.168.1.7
-MACアドレス：
+MACアドレス：74:a5:c2:11:95:0c
 OS：Android 16
 役割：移動用通信端末・Obsidian・Syncthing・SSHクライアント
 設置場所：居間デスク・他
@@ -104,7 +104,7 @@ OS：Android 16
 機器名：スマートフォン2
 型番：Torque 5G
 IP：192.168.1.10
-MACアドレス：
+MACアドレス：00:ed:b8:b6:d6:b6
 OS：Android 13
 役割：SSHクライアント・RustDeskサーバ・ラジオサーバ
 設置場所：居間デスク・他
