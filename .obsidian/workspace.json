@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52990e387ca5dbf0",
+        "id": "57f3bbdccf875b82",
         "type": "tabs",
         "children": [
           {
-            "id": "15b899a180346d79",
+            "id": "e808a2ac202432d3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "15b899a180346d79",
+  "active": "e808a2ac202432d3",
   "lastOpenFiles": [
+    "fortune迷言集.md",
     "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
     "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
