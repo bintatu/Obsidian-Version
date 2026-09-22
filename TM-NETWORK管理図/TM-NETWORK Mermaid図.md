@@ -4,7 +4,7 @@ graph TD
     Internet[インターネット<br/>auひかり]
     ONU[ONU]
     HGW[HGW<br/>192.168.0.1]
-    XR500[XR500<br/>192.168.0.2]
+    XR500[XR500<br/>192.168.1.1]
 
 	Internet --> ONU --> HGW --> XR500
  
