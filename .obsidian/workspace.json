@@ -11,10 +11,14 @@
             "id": "f5f0ac9c81c1dafc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Linux コマンド 注意報.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "Linux コマンド 注意報"
             }
           }
         ]
@@ -197,6 +201,8 @@
   },
   "active": "f5f0ac9c81c1dafc",
   "lastOpenFiles": [
+    "Grafana.md",
+    "GitHub手順書.md",
     "デイリーノート 2026/2026.09/2026-09-22（火）.md",
     "fortune迷言集.md",
     "fortune（のおまじない）.md",
@@ -231,8 +237,6 @@
     "目次.base",
     "付箋なつぶやき（リンク集）.md",
     "付箋なつぶやき.md",
-    "宅内表示計画 AI スマートスピーカ（改）M5 Stack表示器計画.md",
-    "宅内表示計画.md",
     "デイリーノート 2026/2026.09",
     "デイリーノート 2026/2026.08",
     "デイリーノート 2026/2026.07",
