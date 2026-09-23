@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a1496341ed8500d",
+        "id": "5dbdd6145ed37ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "4ea4ab1b71c19b0f",
+            "id": "f5f0ac9c81c1dafc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "4ea4ab1b71c19b0f",
+  "active": "f5f0ac9c81c1dafc",
   "lastOpenFiles": [
+    "デイリーノート 2026/2026.09/2026-09-22（火）.md",
     "fortune迷言集.md",
     "fortune（のおまじない）.md",
     "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
@@ -232,7 +233,6 @@
     "付箋なつぶやき.md",
     "宅内表示計画 AI スマートスピーカ（改）M5 Stack表示器計画.md",
     "宅内表示計画.md",
-    "宅内同期計画.md",
     "デイリーノート 2026/2026.09",
     "デイリーノート 2026/2026.08",
     "デイリーノート 2026/2026.07",
