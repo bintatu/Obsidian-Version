@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df75417a4cfd98c5",
+        "id": "9553bdb195179d19",
         "type": "tabs",
         "children": [
           {
-            "id": "f0189a33513861e2",
+            "id": "75210a44d650515c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "f0189a33513861e2",
+  "active": "75210a44d650515c",
   "lastOpenFiles": [
+    "デイリーノート 2026/2026.09/2026-09-01（火）.md",
     "2026 10大パワーワード.md",
     "月の満ち欠け.md",
     "デイリーノート 2026/2026.09/2026-09-24（木）.md",
@@ -222,7 +223,6 @@
     "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
     "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
     "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
-    "Radio.sh と 事前準備.md",
     "無題のファイル 4.canvas",
     "無題のファイル.canvas",
     "無題のファイル 8.canvas",
