@@ -233,12 +233,21 @@ git clone git@github.com:bintatu/tenki.git
 
 更新
 
+```bash
 git pull
-
+```
 コミット
 
+```bash
 git status
-
+```
+```bash
 git add .
 git commit -m "..."
 git push
+```
+
+おまけ:SHA-256の確認
+```bash
+sha256sum ~/ファイル名.sh
+```
