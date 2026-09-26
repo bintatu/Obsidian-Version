@@ -64,3 +64,12 @@ while true; do
     sleep 3
 done
 ```
+CPU温度を見るコマンド「ｔ」
+
+```bash
+echo "alias t='clear; for z in /sys/class/thermal/thermal_zone*; do type=\$(cat \$z/type 2>/dev/null); if [[ \"\$type\" == *\"cpu\"* ]]; then temp=\$(cat \$z/temp 2>/dev/null); echo \"\$type: \$((temp / 1000)).\$((temp % 1000 / 100))°C\"; fi; done'" >> ~/.bashrc
+```
+再起動のおまじない
+```bash
+source ~/.bashrc
+```
