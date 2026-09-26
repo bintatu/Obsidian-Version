@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e38c29cf27eb50bb",
+        "id": "4464bac1fa3ac3fb",
         "type": "tabs",
         "children": [
           {
-            "id": "7bc0f44ddef28155",
+            "id": "d52f07d3e738d319",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "termux で、温度を見るおまじない.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "termux で、温度を見るおまじない"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,7 +195,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "7bc0f44ddef28155",
+  "active": "d52f07d3e738d319",
   "lastOpenFiles": [
     "termux で、温度を見るおまじない.md",
     "デイリーノート 2026/2026.09/2026-09-25（金）.md",
