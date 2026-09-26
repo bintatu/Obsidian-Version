@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c930e121da09aa0",
+        "id": "e38c29cf27eb50bb",
         "type": "tabs",
         "children": [
           {
-            "id": "879260b62e13ef58",
+            "id": "7bc0f44ddef28155",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "879260b62e13ef58",
+  "active": "5c8d09ed25a81221",
   "lastOpenFiles": [
+    "デイリーノート 2026/2026.09/2026-09-25（金）.md",
     "GitHub手順書.md",
     "Radio.sh と 事前準備.md",
     "デイリーノート 2026/2026.09/2026-09-01（火）.md",
@@ -222,7 +223,6 @@
     "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
     "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
     "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
-    "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
     "無題のファイル 4.canvas",
     "無題のファイル.canvas",
     "無題のファイル 8.canvas",
