@@ -11,10 +11,14 @@
             "id": "7bc0f44ddef28155",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "termux で、温度を見るおまじない.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "termux で、温度を見るおまじない"
             }
           }
         ]
@@ -195,8 +199,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5c8d09ed25a81221",
+  "active": "7bc0f44ddef28155",
   "lastOpenFiles": [
+    "termux で、温度を見るおまじない.md",
     "デイリーノート 2026/2026.09/2026-09-25（金）.md",
     "GitHub手順書.md",
     "Radio.sh と 事前準備.md",
@@ -222,7 +227,6 @@
     "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
     "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
-    "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
     "無題のファイル 4.canvas",
     "無題のファイル.canvas",
     "無題のファイル 8.canvas",
