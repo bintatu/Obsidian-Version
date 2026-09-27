@@ -11,10 +11,14 @@
             "id": "d52f07d3e738d319",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-09-26（土）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2026-09-26（土）"
             }
           }
         ]
@@ -197,6 +201,7 @@
   },
   "active": "d52f07d3e738d319",
   "lastOpenFiles": [
+    "2026-09-26（土）.md",
     "termux で、温度を見るおまじない.md",
     "デイリーノート 2026/2026.09/2026-09-25（金）.md",
     "GitHub手順書.md",
@@ -222,7 +227,6 @@
     "fortune（のおまじない）.md",
     "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
-    "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
     "無題のファイル 4.canvas",
     "無題のファイル.canvas",
     "無題のファイル 8.canvas",
