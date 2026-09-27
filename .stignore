@@ -11,3 +11,4 @@
 (?d)(?i).obsidian/config*
 (?d)(?i)sync-conflict-*
 (?d)(?i).DS_Store
+(?d).git
