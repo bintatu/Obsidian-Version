@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a52cb06681c8ab2",
+        "id": "e8b413afdf630c0f",
         "type": "tabs",
         "children": [
           {
-            "id": "0bb0fe144998e7e5",
+            "id": "3f164f8395926263",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5c8d09ed25a81221",
+  "active": "3f164f8395926263",
   "lastOpenFiles": [
+    "デイリーノート 2026/2026.08/2026-08-01（土）.md",
     "デイリーノート 2026/2026.09/2026-09-27（日）.md",
     "気の効いた、紬の一言.md",
     "デイリーノート 2026/2026.09/2026-09-26（土）.md",
@@ -222,7 +223,6 @@
     "デイリーノート 2026/2026.09/2026-09-22（火）.md",
     "fortune迷言集.md",
     "fortune（のおまじない）.md",
-    "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "無題のファイル 4.canvas",
     "無題のファイル.canvas",
     "無題のファイル 8.canvas",
