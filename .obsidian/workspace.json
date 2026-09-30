@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0e6ca79cef671414",
+        "id": "984c1315cce21e09",
         "type": "tabs",
         "children": [
           {
-            "id": "e311f7bffd68f598",
+            "id": "e1112a5b7f583bfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-09-29（火）.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-09-29（火）"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,9 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "e311f7bffd68f598",
+  "active": "5c8d09ed25a81221",
   "lastOpenFiles": [
-    "2026-09-29（火）.md",
+    "デイリーノート 2026/2026.09/2026-09-29（火）.md",
     "デイリーノート 2026/2026.09/2026-09-02（水）.md",
     "git for Windows 更新.md",
     "デイリーノート 2026/2026.09/2026-09-28（月）.md",
