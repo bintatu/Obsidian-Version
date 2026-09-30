@@ -11,10 +11,14 @@
             "id": "e1112a5b7f583bfb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Firefox タブまわり変更.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "Firefox タブまわり変更"
             }
           }
         ]
@@ -195,8 +199,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5c8d09ed25a81221",
+  "active": "e1112a5b7f583bfb",
   "lastOpenFiles": [
+    "Firefox タブまわり変更.md",
     "デイリーノート 2026/2026.09/2026-09-29（火）.md",
     "デイリーノート 2026/2026.09/2026-09-02（水）.md",
     "git for Windows 更新.md",
@@ -222,7 +227,6 @@
     "デイリーノート 2026/2026.09/2026-09-17（木）.md",
     "デイリーノート 2026/2026.09/2026-09-16（水）.md",
     "デイリーノート 2026/2026.09/2026-09-15（火）.md",
-    "デイリーノート 2026/2026.09/2026-09-14（月）.md",
     "無題のファイル 4.canvas",
     "無題のファイル.canvas",
     "無題のファイル 8.canvas",
