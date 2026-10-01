@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c4b995e4b4e6b78",
+        "id": "f046ac8b18710f8b",
         "type": "tabs",
         "children": [
           {
-            "id": "681e4c0b0fbc5a2b",
+            "id": "2e40e39583c7b68e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,7 +195,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "681e4c0b0fbc5a2b",
+  "active": "5c8d09ed25a81221",
   "lastOpenFiles": [
     "Firefox タブまわり変更.md",
     "デイリーノート 2026/2026.09/2026-09-30（水）.md",
