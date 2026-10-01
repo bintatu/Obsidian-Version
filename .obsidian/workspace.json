@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "004ceb9051fa0694",
+        "id": "5c4b995e4b4e6b78",
         "type": "tabs",
         "children": [
           {
-            "id": "e2d9baa3cdd36ac3",
+            "id": "681e4c0b0fbc5a2b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,11 +195,11 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5c8d09ed25a81221",
+  "active": "681e4c0b0fbc5a2b",
   "lastOpenFiles": [
-    "デイリーノート 2026/2026.10",
-    "デイリーノート 2026/2026.09/2026-09-30（水）.md",
     "Firefox タブまわり変更.md",
+    "デイリーノート 2026/2026.09/2026-09-30（水）.md",
+    "デイリーノート 2026/2026.10",
     "デイリーノート 2026/2026.09/2026-09-29（火）.md",
     "デイリーノート 2026/2026.09/2026-09-02（水）.md",
     "git for Windows 更新.md",
@@ -240,7 +240,6 @@
     "デイリーノート 2026.07/~syncthing~2026-07-01（す.md.tmp",
     "~syncthing~Syncthink同期.md.tmp",
     "~syncthing~.trashed-1787406158-Syncthink同期.md.tmp",
-    "~syncthing~12月糖尿病内科.md.tmp",
-    "~syncthing~スマホリンクテスト。.md.tmp"
+    "~syncthing~12月糖尿病内科.md.tmp"
   ]
 }

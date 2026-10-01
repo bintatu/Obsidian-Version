@@ -26,3 +26,7 @@ browser.urlbar.openintab
 ```
 browser.tabs.loadDivertedInBackground
 ```
+## サイドバーを旧式に
+```
+sidebar.revamp
+```
