@@ -18,3 +18,11 @@ Absolute Radio 80s
 Absolute Radio 90s
 BBC Radio 2
 Japan Hits - asia DREAM radio
+
+
+# ※ 更新手順
+
+```bash
+pipx upgrade radio-active
+```
+
