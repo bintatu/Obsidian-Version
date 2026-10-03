@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c8caafb93fa0c9c9",
+        "id": "b10f95ef5d101443",
         "type": "tabs",
         "children": [
           {
-            "id": "329011d1d06b8e73",
+            "id": "af6655eaa2d8b9fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-10-02.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-10-02"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,9 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "329011d1d06b8e73",
+  "active": "af6655eaa2d8b9fe",
   "lastOpenFiles": [
-    "2026-10-02.md",
+    "デイリーノート 2026/2026.10/2026-10-02（金）.md",
     "藍ちゃん選曲 あがる散歩BGM.md",
     "気の効いた、紬の一言.md",
     "radio active 選局リスト.md",
