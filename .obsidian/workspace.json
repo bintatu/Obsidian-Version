@@ -11,10 +11,14 @@
             "id": "af6655eaa2d8b9fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ローカルLLMおすすめからの抜粋（紬'sセレクト）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "ローカルLLMおすすめからの抜粋（紬'sセレクト）"
             }
           }
         ]
@@ -195,8 +199,15 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "af6655eaa2d8b9fe",
+  "active": "5c8d09ed25a81221",
   "lastOpenFiles": [
+    "無題のフォルダ",
+    "開発便利帳.md",
+    "宅内表示計画 AI スマートスピーカ（改）M5 Stack表示器計画.md",
+    "旅行",
+    "宅内温度管理計画.md",
+    "宅内通信計画.md",
+    "宅内同期計画.md",
     "デイリーノート 2026/2026.10/2026-10-02（金）.md",
     "藍ちゃん選曲 あがる散歩BGM.md",
     "気の効いた、紬の一言.md",
@@ -217,12 +228,6 @@
     "FavGCalScheduler フリーズ調査（2026-07）.md",
     "BAUM の三香調 紬の意見.md",
     "2026 10大パワーワード.md",
-    "💡 次のステップへの提案.md",
-    "── 香りの方向性別 ＆ 価格帯マトリクス ── かすみのおすすめ.md",
-    "【作業ログ】Tera TermでのSSH秘密鍵ログイン不具合と検証記録.md",
-    "Linuxに天気を出させてみる（Core化プロジェクト）.md",
-    "Now Core 開発指示書（案）.md",
-    "デイリーノート 2026/2026.09/2026-09-30（水）.md",
     "デイリーノート 2026/2026.10",
     "デイリーノート 2026/2026.10",
     "無題のファイル 4.canvas",
@@ -240,7 +245,6 @@
     "デイリーノート 2026/2026.07",
     "デイリーノート 2026/2026.07",
     "デイリーノート 2026.07/~syncthing~2026-07-01（す.md.tmp",
-    "~syncthing~Syncthink同期.md.tmp",
-    "~syncthing~.trashed-1787406158-Syncthink同期.md.tmp"
+    "~syncthing~Syncthink同期.md.tmp"
   ]
 }
