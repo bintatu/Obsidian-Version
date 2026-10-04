@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a242e7071e9d01d6",
+        "id": "b86ecaac53070eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "de9bffdd46048a16",
+            "id": "510792b47c43c7c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RustDesk debian 更新編.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "RustDesk debian 更新編"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,8 +195,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "de9bffdd46048a16",
+  "active": "510792b47c43c7c5",
   "lastOpenFiles": [
+    "デイリーノート 2026/2026.10/2026-10-03（土）.md",
+    "RustDesk debian 更新編.md",
     "Termix アップデート手順.md",
     "スマホリンクテスト。.md",
     "欲しい物リスト（環境編）.md",
@@ -227,8 +225,6 @@
     "GitHub手順書.md",
     "git for Windows 更新.md",
     "fortune迷言集.md",
-    "fortune（のおまじない）.md",
-    "Firefox タブまわり変更.md",
     "デイリーノート 2026/2026.10",
     "デイリーノート 2026/2026.10",
     "無題のファイル 4.canvas",
