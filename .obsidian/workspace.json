@@ -11,10 +11,14 @@
             "id": "273528971fe82299",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "香りを楽しむ/ローカルLLMおすすめからの抜粋（紬'sセレクト）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "ローカルLLMおすすめからの抜粋（紬'sセレクト）"
             }
           }
         ]
@@ -195,8 +199,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5c8d09ed25a81221",
+  "active": "273528971fe82299",
   "lastOpenFiles": [
+    "香りを楽しむ/気になる香り、欲しい香り.md",
     "デイリーノート 2026/2026.10/2026-10-04（日）.md",
     "デイリーノート 2026/2026.10/2026-10-03（土）.md",
     "RustDesk debian 更新編.md",
@@ -224,7 +229,6 @@
     "Linux コマンド 注意報.md",
     "Grafana.md",
     "GitHub手順書.md",
-    "git for Windows 更新.md",
     "デイリーノート 2026/2026.10",
     "デイリーノート 2026/2026.10",
     "無題のファイル 4.canvas",
