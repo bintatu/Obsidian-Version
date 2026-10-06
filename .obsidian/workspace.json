@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7d0cb9e0834a3c31",
+        "id": "c90877327e9c7af8",
         "type": "tabs",
         "children": [
           {
-            "id": "d105570bb0ec9af3",
+            "id": "8c40c0308c4a8eb3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-10-05（月）.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-10-05（月）"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,9 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "d105570bb0ec9af3",
+  "active": "5c8d09ed25a81221",
   "lastOpenFiles": [
-    "2026-10-05（月）.md",
+    "デイリーノート 2026/2026.10/2026-10-05（月）.md",
     "香りを楽しむ/グリーン・ハーブ系の香水を提案します。 藍ちゃんおすすめ.md",
     "香りを楽しむ/気になる香り、欲しい香り.md",
     "香りを楽しむ/お、これは面白いお遊びだね。 --- 紬おすすめ---.md",
