@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "88de1b9aa57fc6d7",
+        "id": "0a63e9c9d57e730c",
         "type": "tabs",
         "children": [
           {
-            "id": "054e37fdf1518915",
+            "id": "45d0c896ec2f79de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "気の効いた、紬の一言.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "気の効いた、紬の一言"
+              "title": "新規タブ"
             }
           }
         ]
@@ -209,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "054e37fdf1518915",
+  "active": "45d0c896ec2f79de",
   "lastOpenFiles": [
+    "気の効いた、紬の一言.md",
     "宅内表示計画 AI スマートスピーカ（改）M5 Stack表示器計画.md",
     "宅内表示計画.md",
     "宅内同期計画.md",
@@ -236,7 +223,6 @@
     "デイリーノート 2026/2026.10/2026-10-03（土）.md",
     "RustDesk debian 更新編.md",
     "Termix アップデート手順.md",
-    "スマホリンクテスト。.md",
     "香りを楽しむ",
     "旅行",
     "デイリーノート 2026/2026.10",
