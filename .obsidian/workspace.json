@@ -11,10 +11,14 @@
             "id": "054e37fdf1518915",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "気の効いた、紬の一言.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "気の効いた、紬の一言"
             }
           }
         ]
