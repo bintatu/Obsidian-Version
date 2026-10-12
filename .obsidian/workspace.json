@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "17fd3e069ced31f8",
+        "id": "6577efaaa57645aa",
         "type": "tabs",
         "children": [
           {
-            "id": "fb3a204eeefde5f6",
+            "id": "ed0d58fb64b4de20",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,7 +195,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "fb3a204eeefde5f6",
+  "active": "ed0d58fb64b4de20",
   "lastOpenFiles": [
     "デイリーノート 2026/2026.10/2026-10-11（日）.md",
     "気の効いた、紬の一言.md",
