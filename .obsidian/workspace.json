@@ -11,10 +11,14 @@
             "id": "45d0c896ec2f79de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-10-11（日）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2026-10-11（日）"
             }
           }
         ]
@@ -197,6 +201,7 @@
   },
   "active": "45d0c896ec2f79de",
   "lastOpenFiles": [
+    "2026-10-11（日）.md",
     "気の効いた、紬の一言.md",
     "宅内表示計画 AI スマートスピーカ（改）M5 Stack表示器計画.md",
     "宅内表示計画.md",
@@ -222,7 +227,6 @@
     "デイリーノート 2026/2026.10/2026-10-04（日）.md",
     "デイリーノート 2026/2026.10/2026-10-03（土）.md",
     "RustDesk debian 更新編.md",
-    "Termix アップデート手順.md",
     "香りを楽しむ",
     "旅行",
     "デイリーノート 2026/2026.10",
