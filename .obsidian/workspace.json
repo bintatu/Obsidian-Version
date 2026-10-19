@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ":#PC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,7 +199,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "b964aef71fa024f6",
+  "active": "d07848e389610062",
   "lastOpenFiles": [
     "Open WebUI アップデート手順.md",
     "宅内同期計画.md",
