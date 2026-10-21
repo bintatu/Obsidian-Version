@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cf62e8c8ca425b24",
+        "id": "99fc8cab33cd47d9",
         "type": "tabs",
         "children": [
           {
-            "id": "53e0b611904d30fa",
+            "id": "7b9e97f4301c5667",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Open notebook 更新手順.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Open notebook 更新手順"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,8 +195,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "53e0b611904d30fa",
+  "active": "7b9e97f4301c5667",
   "lastOpenFiles": [
+    "Radio.sh と 事前準備.md",
+    "Open notebook 更新手順.md",
     "Termix アップデート手順.md",
     "デイリーノート 2026/2026.10/2026-10-20（火）.md",
     "デイリーノート 2026/2026.10/2026-10-01（木）.md",
@@ -226,8 +224,6 @@
     "デイリーノート 2026/2026.10/2026-10-11（日）.md",
     "気の効いた、紬の一言.md",
     "グリーンティー ミモザ ファースト・インプレッション@紬とのコラボ.md",
-    "デイリーノート 2026/2026.10/2026-10-10（土）.md",
-    "デイリーノート 2026/2026.10/2026-10-09（金）.md",
     "香りを楽しむ",
     "旅行",
     "デイリーノート 2026/2026.10",
