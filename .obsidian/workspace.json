@@ -11,10 +11,14 @@
             "id": "966c2b3e232655cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "気の効いた、紬の一言.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "気の効いた、紬の一言"
             }
           }
         ]
@@ -195,8 +199,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5c8d09ed25a81221",
+  "active": "966c2b3e232655cb",
   "lastOpenFiles": [
+    "2026 10大パワーワード.md",
     "デイリーノート 2026/2026.10/2026-10-22（木）.md",
     "気の効いた、紬の一言.md",
     "termux_api battery_logger.md",
@@ -223,7 +228,6 @@
     "占星術JSONデータ解析（@紬）.md",
     "~syncthing~夢占い.md.tmp",
     "デイリーノート 2026/2026.10/2026-10-17（土）.md",
-    "デイリーノート 2026/2026.10/2026-10-16（金）.md",
     "香りを楽しむ",
     "旅行",
     "デイリーノート 2026/2026.10",
