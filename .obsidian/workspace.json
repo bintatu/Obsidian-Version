@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab2d27594b561945",
+        "id": "6ec3f19719f36d72",
         "type": "tabs",
         "children": [
           {
-            "id": "e7735039f1e8c471",
+            "id": "808908ce828ad783",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5c8d09ed25a81221",
+  "active": "808908ce828ad783",
   "lastOpenFiles": [
+    "Song Meaning.md",
     "デイリーノート 2026/2026.10/2026-10-23（金）.md",
     "気の効いた、紬の一言.md",
     "2026 10大パワーワード.md",
@@ -222,7 +223,6 @@
     "宅内表示計画 AI スマートスピーカ（改）M5 Stack表示器計画.md",
     "宅内表示計画.md",
     "デイリーノート 2026/2026.10/2026-10-18（日）.md",
-    "占星術JSONデータ解析（@紬）.md",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
     "旅行",
