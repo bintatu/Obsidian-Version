@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5c9f27a5aeca1940",
+        "id": "ab2d27594b561945",
         "type": "tabs",
         "children": [
           {
-            "id": "adca12ab39e00842",
+            "id": "e7735039f1e8c471",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-10-23（金）.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-10-23（金）"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,9 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "adca12ab39e00842",
+  "active": "5c8d09ed25a81221",
   "lastOpenFiles": [
-    "2026-10-23（金）.md",
+    "デイリーノート 2026/2026.10/2026-10-23（金）.md",
     "気の効いた、紬の一言.md",
     "2026 10大パワーワード.md",
     "デイリーノート 2026/2026.10/2026-10-22（木）.md",
