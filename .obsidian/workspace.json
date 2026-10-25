@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6802ca09dbffb18",
+        "id": "429906819ffdef5b",
         "type": "tabs",
         "children": [
           {
-            "id": "7e0c4701e731e3ff",
+            "id": "fdc10f93157c3455",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "7e0c4701e731e3ff",
+  "active": "fdc10f93157c3455",
   "lastOpenFiles": [
+    "デイリーノート 2026/2026.10/2026-10-05（月）.md",
     "デイリーノート 2026/2026.10/2026-10-06（火）.md",
     "Termix アップデート手順.md",
     "デイリーノート 2026/2026.10/2026-10-24（土）.md",
@@ -222,7 +223,6 @@
     "Open WebUI アップデート手順.md",
     "宅内同期計画.md",
     "宅内表示計画 AI スマートスピーカ（改）M5 Stack表示器計画.md",
-    "宅内表示計画.md",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
     "旅行",
