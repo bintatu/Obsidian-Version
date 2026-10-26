@@ -11,10 +11,14 @@
             "id": "15dfd1fd17bac0fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-10-25（日）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2026-10-25（日）"
             }
           }
         ]
@@ -197,6 +201,7 @@
   },
   "active": "15dfd1fd17bac0fa",
   "lastOpenFiles": [
+    "2026-10-25（日）.md",
     "デイリーノート 2026/2026.10/2026-10-12（月）.md",
     "デイリーノート 2026/2026.10/2026-10-02（金）.md",
     "デイリーノート 2026/2026.10/2026-10-05（月）.md",
@@ -222,7 +227,6 @@
     "Linuxに天気を出させてみる（Core化プロジェクト）.md",
     "M715ｑリバイバル計画.md",
     "Open WebUI アップデート手順.md",
-    "宅内同期計画.md",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
     "旅行",
