@@ -14,5 +14,7 @@ Ctrl + B m
 終了
 Ctrl + B d
 
+text
 ```
-/exec -sh tmux で
+/exec -sh tmux detach
+```
