@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7c165b922910c14f",
+        "id": "4e71a25778c3de39",
         "type": "tabs",
         "children": [
           {
-            "id": "58d34ce5de49dad6",
+            "id": "8875551ddee1dbbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tmux 便利帳.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tmux 便利帳"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,7 +195,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "58d34ce5de49dad6",
+  "active": "8875551ddee1dbbe",
   "lastOpenFiles": [
     "Tmux 便利帳.md",
     "Weechat に天気を出すおまじない.md",
