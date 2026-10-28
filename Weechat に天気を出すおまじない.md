@@ -9,4 +9,6 @@
 /eval /set weechat.bar.status.items ${weechat.bar.status.items},spacer,wttr
 /eval /set weechat.startup.command_after_plugins ${weechat.startup.command_after_plugins};/wttr
 /wttr
+
+
 ```
