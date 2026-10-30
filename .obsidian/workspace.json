@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "366611fac15285da",
+        "id": "c802567ceea2dadf",
         "type": "tabs",
         "children": [
           {
-            "id": "0772e964f0104e23",
+            "id": "5ee5b7d5f79d9a99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "デイリーノート 2026/2026.10/2026-10-04（日）.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-10-04（日）"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "0772e964f0104e23",
+  "active": "5ee5b7d5f79d9a99",
   "lastOpenFiles": [
+    "デイリーノート 2026/2026.10/2026-10-04（日）.md",
     "デイリーノート 2026/2026.10/2026-10-05（月）.md",
     "デイリーノート 2026/2026.10/2026-10-29（木）.md",
     "Tmux 便利帳.md",
@@ -226,7 +223,6 @@
     "ルノルマンカード全36種類.md",
     "夢占い.md",
     "Radio.sh と 事前準備.md",
-    "Open notebook 更新手順.md",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
     "旅行",
