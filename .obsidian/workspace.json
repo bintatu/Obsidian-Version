@@ -11,10 +11,14 @@
             "id": "c2ac0b1dc46a4925",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-10-29（木）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2026-10-29（木）"
             }
           }
         ]
@@ -197,6 +201,7 @@
   },
   "active": "c2ac0b1dc46a4925",
   "lastOpenFiles": [
+    "2026-10-29（木）.md",
     "Tmux 便利帳.md",
     "termux で、温度を見るおまじない.md",
     "Termix アップデート手順.md",
@@ -222,7 +227,6 @@
     "夢占い.md",
     "Radio.sh と 事前準備.md",
     "Open notebook 更新手順.md",
-    "デイリーノート 2026/2026.10/2026-10-20（火）.md",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
     "旅行",
