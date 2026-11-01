@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ad4e39b6d2f6766",
+        "id": "c1c23c558d49645f",
         "type": "tabs",
         "children": [
           {
-            "id": "981223be9de9522c",
+            "id": "5310aad28afbffc2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,7 +195,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "981223be9de9522c",
+  "active": "5310aad28afbffc2",
   "lastOpenFiles": [
     "「rf」で一発起動させるための修正手順（エイリアス登録法）.md",
     "デイリーノート 2026/2026.10/2026-10-31（土）.md",
