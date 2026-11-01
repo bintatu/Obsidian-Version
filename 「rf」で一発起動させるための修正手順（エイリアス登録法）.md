@@ -20,7 +20,7 @@ nano ~/.bashrc
 bash
 
 ```
-alias rf='cd ~/rfriends3 && sh rfriends3.sh'
+alias rf='cd ~/rfriends3 && sh rfriends3.sh && cd ~'
 ```
 
 コードは注意してご使用ください。
