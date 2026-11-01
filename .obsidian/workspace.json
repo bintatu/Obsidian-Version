@@ -11,10 +11,14 @@
             "id": "6b5ddbf79598ab7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "「rf」で一発起動させるための修正手順（エイリアス登録法）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "「rf」で一発起動させるための修正手順（エイリアス登録法）"
             }
           }
         ]
@@ -197,6 +201,7 @@
   },
   "active": "6b5ddbf79598ab7c",
   "lastOpenFiles": [
+    "「rf」で一発起動させるための修正手順（エイリアス登録法）.md",
     "デイリーノート 2026/2026.10/2026-10-31（土）.md",
     "デイリーノート 2026/2026.11",
     "Termix アップデート手順.md",
