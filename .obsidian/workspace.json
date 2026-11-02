@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4940ffc6d315b0b6",
+        "id": "6f61cfe9bc710152",
         "type": "tabs",
         "children": [
           {
-            "id": "cc48cf6075fb487c",
+            "id": "62451112e589fffb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,7 +195,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "cc48cf6075fb487c",
+  "active": "62451112e589fffb",
   "lastOpenFiles": [
     "Gboard 無効化.md",
     "git for Windows 更新.md",
