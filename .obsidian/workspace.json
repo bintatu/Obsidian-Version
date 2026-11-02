@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f2cef190a33f5439",
+        "id": "03aa3303e3b6d37a",
         "type": "tabs",
         "children": [
           {
-            "id": "9bb0c1c9d3a74e9a",
+            "id": "93af566b7efa5fdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "実家用セサミリスト.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "実家用セサミリスト"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,7 +195,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "9bb0c1c9d3a74e9a",
+  "active": "93af566b7efa5fdb",
   "lastOpenFiles": [
     "実家用セサミリスト.md",
     "Weechat のコミッとした設定.md",
