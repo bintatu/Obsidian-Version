@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f61cfe9bc710152",
+        "id": "f2cef190a33f5439",
         "type": "tabs",
         "children": [
           {
-            "id": "62451112e589fffb",
+            "id": "9bb0c1c9d3a74e9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weechat のコミッとした設定.md",
+                "file": "実家用セサミリスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weechat のコミッとした設定"
+              "title": "実家用セサミリスト"
             }
           }
         ]
@@ -199,8 +199,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "62451112e589fffb",
+  "active": "9bb0c1c9d3a74e9a",
   "lastOpenFiles": [
+    "実家用セサミリスト.md",
+    "Weechat のコミッとした設定.md",
     "Gboard 無効化.md",
     "git for Windows 更新.md",
     "GitHub手順書.md",
@@ -221,13 +223,11 @@
     "Tmux 便利帳.md",
     "termux_api battery_logger.md",
     "デイリーノート 2026/2026.10/2026-10-28（水）.md",
-    "Weechat のコミッとした設定.md",
     "デイリーノート 2026/2026.10/2026-10-06（火）.md",
     "Weechat に天気を出すおまじない.md",
     "デイリーノート 2026/2026.10/2026-10-27（火）.md",
     "デイリーノート 2026/2026.10/2026-10-26（月）.md",
     "デイリーノート 2026/2026.10/2026-10-25（日）.md",
-    "デイリーノート 2026/2026.10/2026-10-12（月）.md",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
     "旅行",
