@@ -11,10 +11,14 @@
             "id": "10c90dc29dd9db8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GitHub手順書.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "GitHub手順書"
             }
           }
         ]
