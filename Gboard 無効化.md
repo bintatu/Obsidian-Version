@@ -10,7 +10,7 @@ PCを使って強制的に無効化する（ADBコマンド）
     
     bash
     ```
-    adb shell pm disable-user --user 0 com.google.android.inputmethod.latin
+    \.adb shell pm disable-user --user 0 com.google.android.inputmethod.latin
 ```
    
     コードは注意してご使用ください。
