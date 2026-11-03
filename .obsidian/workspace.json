@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "03aa3303e3b6d37a",
+        "id": "ddfa8fe00e5ba809",
         "type": "tabs",
         "children": [
           {
-            "id": "93af566b7efa5fdb",
+            "id": "96ad4a6972ebb1fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-11-02（月）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2026-11-02（月）"
             }
           }
         ]
@@ -195,8 +199,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "93af566b7efa5fdb",
+  "active": "96ad4a6972ebb1fc",
   "lastOpenFiles": [
+    "2026-11-02（月）.md",
+    "🗺️ WSL2×SSH トラブルおさらいマップ.md",
     "実家用セサミリスト.md",
     "Weechat のコミッとした設定.md",
     "Gboard 無効化.md",
@@ -222,8 +228,6 @@
     "デイリーノート 2026/2026.10/2026-10-06（火）.md",
     "Weechat に天気を出すおまじない.md",
     "デイリーノート 2026/2026.10/2026-10-27（火）.md",
-    "デイリーノート 2026/2026.10/2026-10-26（月）.md",
-    "デイリーノート 2026/2026.10/2026-10-25（日）.md",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
     "旅行",
