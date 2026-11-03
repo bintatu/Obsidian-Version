@@ -11,10 +11,14 @@
             "id": "17af32520a5a8a38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Gboard 無効化.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "Gboard 無効化"
             }
           }
         ]
@@ -195,7 +199,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "17af32520a5a8a38",
+  "active": "5c8d09ed25a81221",
   "lastOpenFiles": [
     "Termix アップデート手順.md",
     "📱 【Android】邪魔な「地球儀マーク（キーボード切り替え）」を完全に消し去る裏ワザ.md",
