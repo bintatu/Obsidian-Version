@@ -11,10 +11,14 @@
             "id": "ca698483181efdf4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-11-03（火）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2026-11-03（火）"
             }
           }
         ]
@@ -197,6 +201,7 @@
   },
   "active": "ca698483181efdf4",
   "lastOpenFiles": [
+    "2026-11-03（火）.md",
     "radio active 選局リスト.md",
     "Gboard 無効化.md",
     "Termix アップデート手順.md",
@@ -223,7 +228,6 @@
     "Tmux 便利帳.md",
     "termux_api battery_logger.md",
     "デイリーノート 2026/2026.10/2026-10-28（水）.md",
-    "デイリーノート 2026/2026.10/2026-10-06（火）.md",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
     "旅行",
