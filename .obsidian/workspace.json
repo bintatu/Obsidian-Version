@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb5b14f489eb9413",
+        "id": "1bd4fec681485d2a",
         "type": "tabs",
         "children": [
           {
-            "id": "4195e91b7ea91fa8",
+            "id": "d6caace9b1bf11f5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "4195e91b7ea91fa8",
+  "active": "d6caace9b1bf11f5",
   "lastOpenFiles": [
+    "💡 Linux同士の本番環境でよく使う「三種の神器」.md",
     "radio active 選局リスト.md",
     "radio active URLリスト.md",
     "デイリーノート 2026/2026.11/2026-11-03（火）.md",
@@ -223,7 +224,6 @@
     "デイリーノート 2026/2026.10/2026-10-05（月）.md",
     "デイリーノート 2026/2026.10/2026-10-29（木）.md",
     "Tmux 便利帳.md",
-    "termux_api battery_logger.md",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
     "旅行",
