@@ -11,9 +11,7 @@ Exclusively - R.E.M. Hits
 Exclusively - Suzanne Vega
 Adroit Jazz Underground
 Radio Bob Classic Rock
-
 Vinyl FM
-JazzRadio 106.8 Berlin
 RMF 70s
 RMF 80s
 RMF 90s
@@ -21,8 +19,10 @@ Absolute Radio
 Absolute Radio 80s
 Absolute Radio 90s
 J1 GOLD
-Japan Hits - asia DREAM radio
 Japan2
+Japan Hits - asia DREAM radio
+JazzRadio 106.8 Berlin
+
 
 
 # ※ 更新手順
