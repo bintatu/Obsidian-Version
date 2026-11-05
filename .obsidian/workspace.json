@@ -11,10 +11,14 @@
             "id": "228eb3df28eda149",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI NAS 建造計画.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "AI NAS 建造計画"
             }
           }
         ]
@@ -197,6 +201,7 @@
   },
   "active": "228eb3df28eda149",
   "lastOpenFiles": [
+    "AI NAS 建造計画.md",
     "2026-11-04（水）.md",
     "💡 Linux同士の本番環境でよく使う「三種の神器」.md",
     "radio active 選局リスト.md",
@@ -223,7 +228,6 @@
     "デイリーノート 2026/2026.10/2026-10-04（日）.md",
     "デイリーノート 2026/2026.10/2026-10-30（金）.md",
     "デイリーノート 2026/2026.10/2026-10-05（月）.md",
-    "デイリーノート 2026/2026.10/2026-10-29（木）.md",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
     "旅行",
