@@ -1,3 +1,5 @@
 
 マザー B550mチップセット
 CPU Ryzen 5 4600G
+VGA Radeon RX6700XT 12GB
+
