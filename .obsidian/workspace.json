@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "41e7432750ac993c",
+        "id": "3bd21eb852993f25",
         "type": "tabs",
         "children": [
           {
-            "id": "5ee03e4d71a60ff4",
+            "id": "13e217d4a4361219",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "宅内同期計画 AI NAS 建造編.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "宅内同期計画 AI NAS 建造編"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,11 +195,11 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5ee03e4d71a60ff4",
+  "active": "13e217d4a4361219",
   "lastOpenFiles": [
+    "宅内同期計画 AI NAS 建造編.md",
     "宅内通信計画.md",
     "宅内同期計画.md",
-    "宅内同期計画 AI NAS 建造編.md",
     "2026-11-04（水）.md",
     "💡 Linux同士の本番環境でよく使う「三種の神器」.md",
     "radio active 選局リスト.md",
