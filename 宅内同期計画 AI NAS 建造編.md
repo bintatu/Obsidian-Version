@@ -1,3 +1,4 @@
+#ハードウエア #PC
 
 マザー ASRock  B550M Pro4
 CPU Ryzen 5 4600G

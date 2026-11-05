@@ -11,10 +11,14 @@
             "id": "5ee03e4d71a60ff4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "宅内同期計画 AI NAS 建造編.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "宅内同期計画 AI NAS 建造編"
             }
           }
         ]
@@ -197,7 +201,9 @@
   },
   "active": "5ee03e4d71a60ff4",
   "lastOpenFiles": [
-    "AI NAS 建造計画.md",
+    "宅内通信計画.md",
+    "宅内同期計画.md",
+    "宅内同期計画 AI NAS 建造編.md",
     "2026-11-04（水）.md",
     "💡 Linux同士の本番環境でよく使う「三種の神器」.md",
     "radio active 選局リスト.md",
@@ -222,8 +228,6 @@
     "デイリーノート 2026/2026.11",
     "俺的。かっこいい曲.md",
     "デイリーノート 2026/2026.10/2026-10-04（日）.md",
-    "デイリーノート 2026/2026.10/2026-10-30（金）.md",
-    "デイリーノート 2026/2026.10/2026-10-05（月）.md",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
     "旅行",
