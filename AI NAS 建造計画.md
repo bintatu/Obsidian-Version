@@ -1,5 +1,5 @@
 
-マザー B550mチップセット
+マザー ASRock  B550M Pro4
 CPU Ryzen 5 4600G
 VGA Radeon RX6700XT 12GB
 
