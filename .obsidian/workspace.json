@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6872a18835f0098",
+        "id": "1b3252f602be55cc",
         "type": "tabs",
         "children": [
           {
-            "id": "2cbaac86550b1f6a",
+            "id": "abfcccfb5653fc06",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5c8d09ed25a81221",
+  "active": "abfcccfb5653fc06",
   "lastOpenFiles": [
+    "香りを楽しむ/ヴァーベラ ファースト・インプレッション@紬とのコラボ.md",
     "デイリーノート 2026/2026.11/2026-11-05（木）.md",
     "香りを楽しむ/気になる香り、欲しい香り.md",
     "目次.base",
@@ -223,7 +224,6 @@
     "termux で、温度を見るおまじない.md",
     "Radio.sh と 事前準備.md",
     "M715q リバイバル計画.md",
-    "「rf」で一発起動させるための修正手順（エイリアス登録法）.md",
     "デイリーノート 2026/2026.11",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
