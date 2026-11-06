@@ -11,10 +11,14 @@
             "id": "834687e8cf859867",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "radio active 選局リスト.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "radio active 選局リスト"
             }
           }
         ]
@@ -197,6 +201,8 @@
   },
   "active": "834687e8cf859867",
   "lastOpenFiles": [
+    "Song Meaning.md",
+    "Tmux 便利帳.md",
     "宅内表示計画 AI スマートスピーカ（改）M5 Stack表示器計画.md",
     "宅内同期計画 AI NAS 建造編.md",
     "香りを楽しむ/ヴァーベラ ファースト・インプレッション@紬とのコラボ.md",
@@ -222,8 +228,6 @@
     "GitHub手順書.md",
     "デイリーノート 2026/2026.11/2026-11-01（日）.md",
     "蒲田駅 立ち蕎麦 ゆず瓶.md",
-    "termux で、温度を見るおまじない.md",
-    "Radio.sh と 事前準備.md",
     "デイリーノート 2026/2026.11",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
