@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radio.sh と 事前準備.md",
+                "file": "💡 Linux同士の本番環境でよく使う「三種の神器」.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Radio.sh と 事前準備"
+              "title": "💡 Linux同士の本番環境でよく使う「三種の神器」"
             }
           }
         ]
@@ -201,6 +201,7 @@
   },
   "active": "269649f1668930a8",
   "lastOpenFiles": [
+    "Radio.sh と 事前準備.md",
     "香りを楽しむ/タシット ファーストインプレッション@紬とのコラボ.md",
     "Tmux 便利帳.md",
     "termux_api battery_logger.md",
@@ -228,7 +229,6 @@
     "radio active URLリスト.md",
     "デイリーノート 2026/2026.11/2026-11-03（火）.md",
     "Gboard 無効化.md",
-    "📱 【Android】邪魔な「地球儀マーク（キーボード切り替え）」を完全に消し去る裏ワザ.md",
     "デイリーノート 2026/2026.11",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
