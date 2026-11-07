@@ -6,7 +6,8 @@
     bash
     
     ```
-    scp /path/to/local/file user@remote_server:/path/to/destination/
+   scp -prP 8022 [送りたいフォルダ] [ユーザー名]@[IPアドレス]:[保存先]
+
     ```
     
     コードは注意してご使用ください。
