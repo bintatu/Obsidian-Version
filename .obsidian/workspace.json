@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad111c929c4d716d",
+        "id": "84d46f398e2c1698",
         "type": "tabs",
         "children": [
           {
-            "id": "834687e8cf859867",
+            "id": "ca74b262d19abba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "radio active 選局リスト.md",
+                "file": "2026-11-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "radio active 選局リスト"
+              "title": "2026-11-07"
             }
           }
         ]
@@ -199,8 +199,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "834687e8cf859867",
+  "active": "ca74b262d19abba7",
   "lastOpenFiles": [
+    "2026-11-07.md",
+    "radio active 選局リスト.md",
     "Song Meaning.md",
     "Tmux 便利帳.md",
     "宅内表示計画 AI スマートスピーカ（改）M5 Stack表示器計画.md",
@@ -214,7 +216,6 @@
     "宅内同期計画.md",
     "デイリーノート 2026/2026.11/2026-11-04（水）.md",
     "💡 Linux同士の本番環境でよく使う「三種の神器」.md",
-    "radio active 選局リスト.md",
     "radio active URLリスト.md",
     "デイリーノート 2026/2026.11/2026-11-03（火）.md",
     "Gboard 無効化.md",
@@ -227,7 +228,6 @@
     "git for Windows 更新.md",
     "GitHub手順書.md",
     "デイリーノート 2026/2026.11/2026-11-01（日）.md",
-    "蒲田駅 立ち蕎麦 ゆず瓶.md",
     "デイリーノート 2026/2026.11",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
