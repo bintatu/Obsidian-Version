@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "「rf」で一発起動させるための修正手順（エイリアス登録法）.md",
+                "file": "Tmux 便利帳.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "「rf」で一発起動させるための修正手順（エイリアス登録法）"
+              "title": "Tmux 便利帳"
             }
           }
         ]
@@ -201,13 +201,18 @@
   },
   "active": "053770ceed0989b0",
   "lastOpenFiles": [
+    "termux_api battery_logger.md",
+    "termux で、温度を見るおまじない.md",
+    "Termix アップデート手順.md",
+    "Syncthink同期.md",
+    "Song Meaning.md",
+    "「rf」で一発起動させるための修正手順（エイリアス登録法）.md",
     "無題のファイル.base",
     "香りを楽しむ/タシット ファーストインプレッション@紬とのコラボ.md",
     "香りを楽しむ/グリーンティー ミモザ ファースト・インプレッション@紬とのコラボ.md",
     "スマホで変なのが居座ったとき@Obsidian.md",
     "2026-11-06（金）.md",
     "radio active 選局リスト.md",
-    "Song Meaning.md",
     "Tmux 便利帳.md",
     "宅内表示計画 AI スマートスピーカ（改）M5 Stack表示器計画.md",
     "宅内同期計画 AI NAS 建造編.md",
@@ -223,11 +228,7 @@
     "radio active URLリスト.md",
     "デイリーノート 2026/2026.11/2026-11-03（火）.md",
     "Gboard 無効化.md",
-    "Termix アップデート手順.md",
     "📱 【Android】邪魔な「地球儀マーク（キーボード切り替え）」を完全に消し去る裏ワザ.md",
-    "デイリーノート 2026/2026.11/2026-11-02（月）.md",
-    "🗺️ WSL2×SSH トラブルおさらいマップ.md",
-    "実家用セサミリスト.md",
     "デイリーノート 2026/2026.11",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
