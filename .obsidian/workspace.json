@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "690ac91e8726e2d6",
+        "id": "c4669215edf3d7a5",
         "type": "tabs",
         "children": [
           {
-            "id": "8fcc5487438c7c5f",
+            "id": "0aa7bf87ff8f8386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termix アップデート手順.md",
+                "file": "2026-11-09（月）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Termix アップデート手順"
+              "title": "2026-11-09（月）"
             }
           }
         ]
@@ -199,8 +199,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "8fcc5487438c7c5f",
+  "active": "0aa7bf87ff8f8386",
   "lastOpenFiles": [
+    "2026-11-09（月）.md",
+    "Termix アップデート手順.md",
     "デイリーノート 2026/2026.11/2026-11-08（日）.md",
     "デイリーノート 2026/2026.11/2026-11-07（土）.md",
     "デイリーノート 2026/2026.11/2026-11-06（金）.md",
@@ -214,7 +216,6 @@
     "Tmux 便利帳.md",
     "termux_api battery_logger.md",
     "termux で、温度を見るおまじない.md",
-    "Termix アップデート手順.md",
     "Syncthink同期.md",
     "Song Meaning.md",
     "「rf」で一発起動させるための修正手順（エイリアス登録法）.md",
@@ -228,7 +229,6 @@
     "デイリーノート 2026/2026.11/2026-11-05（木）.md",
     "香りを楽しむ/気になる香り、欲しい香り.md",
     "目次.base",
-    "欲しい物リスト（環境編）.md",
     "デイリーノート 2026/2026.11",
     "~syncthing~夢占い.md.tmp",
     "香りを楽しむ",
