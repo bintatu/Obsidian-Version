@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2471f55bd5afed7",
+        "id": "f26fe0226cd01d96",
         "type": "tabs",
         "children": [
           {
-            "id": "f7371ed03abdc9d5",
+            "id": "c4f0bdfa1616353a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5c8d09ed25a81221",
+  "active": "c4f0bdfa1616353a",
   "lastOpenFiles": [
+    "RustDesk debian 更新編.md",
     "デイリーノート 2026/2026.11/2026-11-09（月）.md",
     "Termix アップデート手順.md",
     "デイリーノート 2026/2026.11/2026-11-08（日）.md",
@@ -223,7 +224,6 @@
     "宅内同期計画 AI NAS 建造編.md",
     "香りを楽しむ/ヴァーベラ ファースト・インプレッション@紬とのコラボ.md",
     "デイリーノート 2026/2026.11/2026-11-05（木）.md",
-    "香りを楽しむ/気になる香り、欲しい香り.md",
     "目次.base",
     "デイリーノート 2026/2026.11",
     "~syncthing~夢占い.md.tmp",
