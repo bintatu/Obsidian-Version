@@ -11,10 +11,14 @@
             "id": "4ad7447765db8e28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RustDesk debian 更新編.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "RustDesk debian 更新編"
             }
           }
         ]
@@ -195,10 +199,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5c8d09ed25a81221",
+  "active": "4ad7447765db8e28",
   "lastOpenFiles": [
-    "デイリーノート 2026/2026.11/2026-11-10（火）.md",
     "デイリーノート 2026/2026.11/2026-11-11（水）.md",
+    "デイリーノート 2026/2026.11/2026-11-10（火）.md",
     "termux_api battery_logger.md",
     "RustDesk debian 更新編.md",
     "デイリーノート 2026/2026.11/2026-11-09（月）.md",

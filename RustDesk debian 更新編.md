@@ -1,14 +1,20 @@
 
 # 最新版のdebパッケージを取得 (バージョン1.x.xの例)
+```
 wget https://github.com/rustdesk/rustdesk/releases/download/1.x.x/rustdesk-1.x.x-x86_64.deb
-
+```
 # ファイルを全ユーザーがアクセスできる一時フォルダに移動
+```
 mv /home/bintatu/rustdesk-1.x.x-x86_64.deb /tmp/
-
+```
 # 移動先からインストールを実行
+```
 sudo apt install -fy /tmp/rustdesk-1.x.x-x86_64.deb
+```
 
 
 # 依存関係を解決してインストール
+```
 sudo apt install -fy ./rustdesk-1x.x-x86_64.deb
+```
 
