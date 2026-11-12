@@ -15,6 +15,6 @@ sudo apt install -fy /tmp/rustdesk-1.x.x-x86_64.deb
 
 # 依存関係を解決してインストール
 ```
-sudo apt install -fy ./rustdesk-1x.x-x86_64.deb
+sudo apt install -fy ./rustdesk-1.x.x-x86_64.deb
 ```
 
