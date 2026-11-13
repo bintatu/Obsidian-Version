@@ -9,6 +9,13 @@ cmake --build build --config Release -j 4
 ```
 
 # Termux（G07：Vulkan有効）
+# Vulkanインストール：Snapdragon（Adreno GPU）搭載機の場合
+Turnip（`mesa-vulkan-icd-freedreno`）と汎用ローダーの組み合わせを入れると、衝突を解消しつつ最も高速に動きます。
+
+```
+pkg install -y vulkan-loader-generic mesa-vulkan-icd-freedreno
+```
+
 ```
 cd ~/llama.cpp
 git fetch --depth 1 origin tag v1.x.x
@@ -16,6 +23,11 @@ git checkout v1.0.0
 rm -rf build
 cmake -B build -G Ninja -DLLAMA_CURL=OFF -DGGML_VULKAN=ON -DCMAKE_BUILD_TYPE=Release
 cmake --build build --config Release -j 4
+```
+
+```
+pkg install -y vulkan-loader-generic mesa-vulkan-icd-freedreno
+
 ```
 # Termux（G05：CPU標準）
 
