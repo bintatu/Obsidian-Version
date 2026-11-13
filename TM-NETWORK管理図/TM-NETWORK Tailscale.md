@@ -5,15 +5,20 @@ IP:100.97.49.82 [[TM-NETWORK 端末管理台帳#^TM-NETWORK11|TM-NETWORK11]]
 
 TM-NETWORK11-ac
 IP:100.74.228.24 [[TM-NETWORK 端末管理台帳#^TM-NETWORK11-ac|TM-NETWORK11-ac]]
+^TM-NETWORK11-AC
 
 TM-NETWORK-debian（CASPER・3）
 IP:100.120.191.52 [[TM-NETWORK 端末管理台帳#^makura|TM-NETWORK-debian]]
+^makura
 
 kyv41（Torque G03）
 IP:100.118.142.89 [[TM-NETWORK 端末管理台帳#^phone3|TorqueG03]]
+^phone3
 
 kyg01（Torque5G/BALTHASAR・2）
 IP:100.85.135.108 [[TM-NETWORK 端末管理台帳#^phone2|Torque 5G]]
+^phone2
 
 kyg06（TorqueG07/MELCHIOR・1）
 IP:100.76.49.112 [[TM-NETWORK 端末管理台帳#^phone1|TorqueG07]]
+^phone1

@@ -23,7 +23,6 @@ OS：DUMAOS XR500 V2.3.4.148
 機器名：TM-NETWORK11(メインPC) 
 型番：B660-ITX
 IP：192.168.1.4 [[TM-NETWORK Tailscale#^TM-NETWORK11|メイン]]
-
 MACアドレス：A8:A1:59:E5:B1:80
 OS：Windows 11 Pro
 役割：一般作業用中核PC、SSHクライアント
@@ -34,7 +33,7 @@ OS：Windows 11 Pro
 
 機器名：TM-NETWORK11-AC（サブPC）
 型番：Aspire AV15-51 
-IP：192.168.1.5 [[TM-NETWORK Tailscale#^TM-NETWORK11|メイン]]
+IP：192.168.1.5 [[TM-NETWORK Tailscale#^TM-NETWORK11-ac|サブ]]
 MACアドレス：44:E5:17:DD:70:16
 OS：Windows 11 Home
 役割：youtube再生機。軽作業用サブ
@@ -45,7 +44,7 @@ OS：Windows 11 Home
 
 機種名：TM-NETWORK-debian（まくらトップ）
 型番：ThinkPad X220
-IP：192.168.1.6
+IP：192.168.1.6 [[TM-NETWORK Tailscale#^TM-NETWORK-debian|makura]]
 MACアドレス：64:80:99:36:90:8C
 OS：Debian 13
 役割：サーバ
@@ -92,7 +91,7 @@ OS：
 
 機器名：スマートフォン1
 型番：Torque G07
-IP：192.168.1.7
+IP：192.168.1.7 [[TM-NETWORK Tailscale#^phone1|Torque G07]]
 MACアドレス：74:a5:c2:11:95:0c
 OS：Android 16
 役割：移動用通信端末・Obsidian・Syncthing・SSHクライアント
@@ -103,7 +102,7 @@ OS：Android 16
 
 機器名：スマートフォン2
 型番：Torque 5G
-IP：192.168.1.10
+IP：192.168.1.10 [[TM-NETWORK Tailscale#^phone2|Torque 5]]
 MACアドレス：00:ed:b8:b6:d6:b6
 OS：Android 13
 役割：SSHクライアント・RustDeskサーバ・ラジオサーバ
@@ -114,7 +113,7 @@ OS：Android 13
 
 機器名：スマートフォン3
 型番：Torque G03
-IP：192.168.1.8
+IP：192.168.1.8 [[TM-NETWORK Tailscale#^phone3|Torque G03]]
 MACアドレス：cc:82:eb:97:6a:bc
 OS：Android 8.1
 役割：SSHクライアント・ラジオサーバ
