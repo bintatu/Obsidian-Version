@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d8afdb0968629d6a",
+        "id": "4486733af21184cc",
         "type": "tabs",
         "children": [
           {
-            "id": "21754986f57db679",
+            "id": "102042f0d5733830",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TM-NETWORK Tailscale"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,15 +195,15 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "21754986f57db679",
+  "active": "102042f0d5733830",
   "lastOpenFiles": [
+    "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
     "Tmux 便利帳.md",
     "termux_api battery_logger.md",
     "TM-NETWORK Tailscale ^TM-NETWORK11.md",
     "Now Core 開発指示書（案）.md",
     "MAGIシステム各種起動法.md",
     "magi.py.md",
-    "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
     "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
     "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
