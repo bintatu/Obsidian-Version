@@ -22,7 +22,7 @@ OS：DUMAOS XR500 V2.3.4.148
 
 機器名：TM-NETWORK11(メインPC) 
 型番：B660-ITX
-IP：192.168.1.4
+IP：192.168.1.4 [[TM-NETWORK Tailscale]]
 MACアドレス：A8:A1:59:E5:B1:80
 OS：Windows 11 Pro
 役割：一般作業用中核PC、SSHクライアント

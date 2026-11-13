@@ -36,16 +36,17 @@
 用途：SSH接続
 ^phone1
 ^phone2
-
+^phone3
 
 サービス名：Termux
 稼働機器：スマホ  
 用途：RustDeskサーバ・ラジオサーバ
 ^phone2
-＾
+
 
 サービス名：Termux
 稼働機器：スマホ  
 用途：SSH接続・ラジオ視聴
 ^phone1
 ^phone2
+^phone3
