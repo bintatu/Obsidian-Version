@@ -101,3 +101,74 @@ EOF
 ```
 sed -i 's/data\["choices"\]\["message"\]/data\["choices"\]\[0\]\["message"\]/g' ~/magi.py
 ```
+
+ログ保存版
+```
+cat << 'EOF' > ~/magi.py
+import os, json, time, datetime, urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+NODES = [
+    {"id": "MELCHIOR", "name": "MELCHIOR・1 (G07)", "ip": "100.x.x.1", "port": 8080, "temp": 0.6,
+     "system": "あなたはMAGIの科学者メルキオールです。論理とリスクから分析し、文末を必ず【可決】【否決】【保留】のいずれかで締めくくってください。200字以内の日本語で回答。"},
+    {"id": "BALTHASAR", "name": "BALTHASAR・2 (5G)", "ip": "100.x.x.2", "port": 8080, "temp": 0.7,
+     "system": "あなたはMAGIの母バルタザールです。健康と安心感から温かく助言し、文末を必ず【可決】【否決】【保留】のいずれかで締めくくってください。200字以内の日本語で回答。 /no_think"},
+    {"id": "CASPER", "name": "CASPER・3 (X220)", "ip": "100.x.x.3", "port": 8888, "temp": 1.05,
+     "system": "あなたはMAGIの女カスパーです。他の2機の正論に反発し、直感とロマンと欲望を最優先して判断し、多くの場合で他の2機とは逆の結論を下して裏切ってください。文末を必ず【可決】【否決】【保留】のいずれかで締めくくってください。200字以内の日本語で回答。"}
+]
+
+def ask(n, q):
+    t0 = time.time()
+    req = urllib.request.Request(
+        f"http://{n['ip']}:{n['port']}/v1/chat/completions",
+        data=json.dumps({"model": "local", "messages": [{"role": "system", "content": n["system"]}, {"role": "user", "content": q}], "temperature": n["temp"]}).encode(),
+        headers={"Content-Type": "application/json"}
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=300) as r:
+            msg = json.loads(r.read().decode())["choices"][0]["message"]
+            return n, msg["content"].strip(), msg.get("reasoning_content", "").strip(), f"{time.time()-t0:.1f}s"
+    except Exception as e:
+        return n, f"エラー: {e}", "", "-"
+
+if __name__ == "__main__":
+    print("=== 第零次・自宅MAGIシステム 審議開始 ===")
+    q = input("議題 > ")
+    print("\n3機へ同時送信中...\n")
+    res_map, votes = {}, {}
+    with ThreadPoolExecutor(max_workers=3) as ex:
+        for f in as_completed([ex.submit(ask, n, q) for n in NODES]):
+            n, ans, think, sec = f.result()
+            res_map[n["id"]] = (n["name"], ans, think, sec)
+            print(f"■ {n['name']} ({sec})\n{ans}\n" + "-"*35)
+
+    for n in NODES:
+        ans = res_map[n["id"]][1]
+        votes[n["id"]] = "可決" if "【可決】" in ans else ("否決" if "【否決】" in ans else "保留")
+
+    print("\n=== 最終議決結果 ===")
+    for n in NODES:
+        print(f"  {n['name']} : 【{votes[n['id']]}】")
+
+    warn = ""
+    if votes["MELCHIOR"] == votes["BALTHASAR"] and votes["MELCHIOR"] in ("可決", "否決") and votes["CASPER"] != votes["MELCHIOR"]:
+        warn = "\n⚠️ 警告：MELCHIOR と BALTHASAR は一致しましたが、CASPER が裏切りました！！"
+        print(warn)
+
+    log_dir = "/sdcard/Documents/magi_logs" if os.path.exists("/sdcard/Documents") else os.path.expanduser("~/magi_logs")
+    os.makedirs(log_dir, exist_ok=True)
+    now = datetime.datetime.now()
+    log_path = os.path.join(log_dir, f"magi_{now.strftime('%Y-%m-%d')}.md")
+    with open(log_path, "a", encoding="utf-8") as fp:
+        fp.write(f"\n## [{now.strftime('%H:%M:%S')}] 議題: {q}\n\n")
+        for n in NODES:
+            name, ans, think, sec = res_map[n["id"]]
+            fp.write(f"### {name} ({sec}) -> 【{votes[n['id']]}】\n{ans}\n\n")
+            if think:
+                fp.write(f"<details><summary>思考プロセス</summary>\n\n{think}\n\n</details>\n\n")
+        if warn:
+            fp.write(f"**{warn.strip()}**\n\n")
+        fp.write("---\n")
+    print(f"\n議事録を保存しました: {log_path}")
+EOF
+```
