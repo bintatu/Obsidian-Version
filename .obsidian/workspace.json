@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TM-NETWORK Tailscale.md",
+                "file": "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
                 "mode": "source",
                 "source": false
               },
@@ -201,8 +201,8 @@
   },
   "active": "9646cd3e2d4c8a14",
   "lastOpenFiles": [
-    "TM-NETWORK Tailscale.md",
     "MAGIシステム各種起動法.md",
+    "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
     "magi.py.md",
     "Qwen 起動法.md",
     "デイリーノート 2026/2026.11/2026-11-12（木）.md",
