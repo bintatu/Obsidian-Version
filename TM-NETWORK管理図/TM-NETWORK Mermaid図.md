@@ -24,6 +24,7 @@ graph TD
 	 PS4[PS4]
 	 Phone1["TorqueG07<br/>192.168.1.7"]
 	 Phone2["Torque5G<br/>192.168.1.10"]
+	 Phone3["TorqueG03<br/>192.168.1.8"]
   end
 	
 	 XR500 -->|LAN1| NAS1
@@ -37,5 +38,5 @@ graph TD
 	 XR500 -.-> PS4
 	 XR500 -.-> Phone1
 	 XR500 -.-> Phone2
-	 
+	 XR500 -.-> Phone3
  ``` 

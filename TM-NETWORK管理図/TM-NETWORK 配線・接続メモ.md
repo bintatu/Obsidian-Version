@@ -32,4 +32,6 @@ XR500 Wi-Fi 5GHz
 │     (192.168.1.7)
 ├─Torque 5G [[TM-NETWORK 端末管理台帳#^phone2|Torque5G]]
 │     (192.168.1.10)
+├─Torque G03 [[TM-NETWORK 端末管理台帳#^phone3|TorqueG03]]
+│     (192.168.1.10)
 └─ PS4
