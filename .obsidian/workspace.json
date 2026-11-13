@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
+                "file": "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TM-NETWORK Tailscale"
+              "title": "TM-NETWORK 端末管理台帳"
             }
           }
         ]
@@ -201,8 +201,13 @@
   },
   "active": "9646cd3e2d4c8a14",
   "lastOpenFiles": [
-    "MAGIシステム各種起動法.md",
+    "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
     "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
+    "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
+    "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
+    "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
+    "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
+    "MAGIシステム各種起動法.md",
     "magi.py.md",
     "Qwen 起動法.md",
     "デイリーノート 2026/2026.11/2026-11-12（木）.md",
@@ -222,11 +227,6 @@
     "Linuxに天気を出させてみる（Core化プロジェクト）.md",
     "Radio.sh と 事前準備.md",
     "💡 Linux同士の本番環境でよく使う「三種の神器」.md",
-    "香りを楽しむ/タシット ファーストインプレッション@紬とのコラボ.md",
-    "Tmux 便利帳.md",
-    "termux で、温度を見るおまじない.md",
-    "Syncthink同期.md",
-    "Song Meaning.md",
     "無題のファイル.base",
     "目次.base",
     "デイリーノート 2026/2026.11",
