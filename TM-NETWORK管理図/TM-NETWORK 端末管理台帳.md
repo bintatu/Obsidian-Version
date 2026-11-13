@@ -22,7 +22,8 @@ OS：DUMAOS XR500 V2.3.4.148
 
 機器名：TM-NETWORK11(メインPC) 
 型番：B660-ITX
-IP：192.168.1.4 [[TM-NETWORK Tailscale]]
+IP：192.168.1.4 [[TM-NETWORK Tailscale#^TM-NETWORK11|メイン]]
+
 MACアドレス：A8:A1:59:E5:B1:80
 OS：Windows 11 Pro
 役割：一般作業用中核PC、SSHクライアント
@@ -33,7 +34,7 @@ OS：Windows 11 Pro
 
 機器名：TM-NETWORK11-AC（サブPC）
 型番：Aspire AV15-51 
-IP：192.168.1.5
+IP：192.168.1.5 [[TM-NETWORK Tailscale#^TM-NETWORK11|メイン]]
 MACアドレス：44:E5:17:DD:70:16
 OS：Windows 11 Home
 役割：youtube再生機。軽作業用サブ
