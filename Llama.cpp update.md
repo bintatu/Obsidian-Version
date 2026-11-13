@@ -15,6 +15,11 @@ Turnip（`mesa-vulkan-icd-freedreno`）と汎用ローダーの組み合わせ�
 ```
 pkg install -y vulkan-loader-generic mesa-vulkan-icd-freedreno
 ```
+※もし `vulkan-loader-android` がすでに入っていて衝突する場合は、先に `pkg uninstall vulkan-loader-android` してから上記を実行してください。
+
+```
+pkg install -y vulkan-loader-generic mesa-vulkan-icd-freedreno
+```
 
 ```
 cd ~/llama.cpp
@@ -26,9 +31,17 @@ cmake --build build --config Release -j 4
 ```
 
 ```
-pkg install -y vulkan-loader-generic mesa-vulkan-icd-freedreno
+cd ~/llama.cpp
+rm -rf build
+cmake -B build -G Ninja -DLLAMA_CURL=OFF -DGGML_VULKAN=ON -DCMAKE_BUILD_TYPE=Release
+```
+
+ここでログの中に **`-- Including Vulkan backend`** と表示されるか確認し、問題なければビルドを実行します。
 
 ```
+cmake --build build --config Release -j 4
+```
+
 # Termux（G05：CPU標準）
 
 ```
