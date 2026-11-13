@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d61599bfba5766b7",
+        "id": "d8afdb0968629d6a",
         "type": "tabs",
         "children": [
           {
-            "id": "634b4e8b9f7794a1",
+            "id": "21754986f57db679",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TM-NETWORK Tailscale"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,26 +195,27 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "634b4e8b9f7794a1",
+  "active": "21754986f57db679",
   "lastOpenFiles": [
+    "Tmux 便利帳.md",
+    "termux_api battery_logger.md",
+    "TM-NETWORK Tailscale ^TM-NETWORK11.md",
+    "Now Core 開発指示書（案）.md",
+    "MAGIシステム各種起動法.md",
+    "magi.py.md",
+    "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
     "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
     "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
-    "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
     "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
     "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
     "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
-    "MAGIシステム各種起動法.md",
-    "Tmux 便利帳.md",
     "Qwen 起動法.md",
-    "TM-NETWORK Tailscale ^TM-NETWORK11.md",
-    "magi.py.md",
     "デイリーノート 2026/2026.11/2026-11-12（木）.md",
     "デイリーノート 2026/2026.11/2026-11-01（日）.md",
     "RustDesk debian 更新編.md",
     "デイリーノート 2026/2026.11/2026-11-11（水）.md",
     "デイリーノート 2026/2026.11/2026-11-10（火）.md",
-    "termux_api battery_logger.md",
     "デイリーノート 2026/2026.11/2026-11-09（月）.md",
     "Termix アップデート手順.md",
     "デイリーノート 2026/2026.11/2026-11-08（日）.md",
@@ -226,7 +223,6 @@
     "デイリーノート 2026/2026.11/2026-11-06（金）.md",
     "Liunx ログイン時に天気を出してみる(Ver0.2).md",
     "Liunx ログイン時に天気を出してみる(Ver0.1).md",
-    "Linuxに天気を出させてみる（Core化プロジェクト）進捗ファイル.md",
     "無題のファイル.base",
     "目次.base",
     "デイリーノート 2026/2026.11",
