@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
+                "file": "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TM-NETWORK Tailscale"
+              "title": "TM-NETWORK 配線・接続メモ"
             }
           }
         ]
@@ -202,12 +202,12 @@
   "active": "9646cd3e2d4c8a14",
   "lastOpenFiles": [
     "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
-    "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
-    "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
-    "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
-    "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
+    "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
     "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
+    "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
+    "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
+    "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
     "MAGIシステム各種起動法.md",
     "magi.py.md",
     "Qwen 起動法.md",
