@@ -96,3 +96,8 @@ if __name__ == "__main__":
             print("\n⚠️ 警告：MELCHIOR と BALTHASAR は一致しましたが、CASPER が裏切りました！！")
 EOF
 ```
+
+おまじない
+```
+sed -i 's/data\["choices"\]\["message"\]/data\["choices"\]\[0\]\["message"\]/g' ~/magi.py
+```
