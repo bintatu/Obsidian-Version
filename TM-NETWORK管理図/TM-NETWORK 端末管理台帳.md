@@ -44,7 +44,7 @@ OS：Windows 11 Home
 
 機種名：TM-NETWORK-debian（まくらトップ）
 型番：ThinkPad X220
-IP：192.168.1.6 [[TM-NETWORK Tailscale#^TM-NETWORK-debian|makura]]
+IP：192.168.1.6 [[TM-NETWORK Tailscale#^makura|makura]]
 MACアドレス：64:80:99:36:90:8C
 OS：Debian 13
 役割：サーバ
