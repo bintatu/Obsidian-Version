@@ -31,7 +31,6 @@ OS：Windows 11 Pro
 備考：鎌田からのお裾分け品（労働対価あり）
 ^TM-NETWORK11
 
-
 機器名：TM-NETWORK11-AC（サブPC）
 型番：Aspire AV15-51 
 IP：192.168.1.5
@@ -42,7 +41,6 @@ OS：Windows 11 Home
 状態：常時通電
 備考：SNS懸賞当選品
 ^TM-NETWORK11-AC
-
 
 機種名：TM-NETWORK-debian（まくらトップ）
 型番：ThinkPad X220
@@ -89,6 +87,7 @@ OS：
 状態：休止中（プリンタヘッド目詰まり）
 備考：
 ^Printer
+
 
 機器名：スマートフォン1
 型番：Torque G07

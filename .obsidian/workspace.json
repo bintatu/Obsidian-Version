@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bb454d86d2b1c1e9",
+        "id": "6ce9670244aa3fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "9646cd3e2d4c8a14",
+            "id": "e3e1b0be2695e069",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TM-NETWORK 配線・接続メモ"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,14 +195,14 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "9646cd3e2d4c8a14",
+  "active": "e3e1b0be2695e069",
   "lastOpenFiles": [
-    "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
-    "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
     "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
+    "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
+    "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
+    "TM-NETWORK管理図/TM-NETWORK 管理図 変更履歴.md",
     "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
     "TM-NETWORK管理図/TM-NETWORK サービス台帳.md",
-    "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "TM-NETWORK管理図/TM-NETWORK ネットワーク図.md",
     "MAGIシステム各種起動法.md",
     "magi.py.md",
