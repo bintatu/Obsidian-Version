@@ -42,11 +42,15 @@ XR500
  ├─ TorqueG07(スマホ1)
  │　 IP:192.168.1.7
  │
- └─ Torque5G(スマホ2)
-     IP:192.168.1.10　
+ ├─ Torque 5G(スマホ2)
+ │　 IP:192.168.1.7
+ │
+ └─ TorqueG03(スマホ3)
+     IP:192.168.1.8　
 
  
  [[TM-NETWORK Mermaid図]]
  [[TM-NETWORK 端末管理台帳]]
  [[TM-NETWORK サービス台帳]]
  [[TM-NETWORK 配線・接続メモ]]
+ [[TM-NETWORK Tailscale]]
