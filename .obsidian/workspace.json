@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "271e5b6b9513cbbc",
+        "id": "a5fd5786f5bd9809",
         "type": "tabs",
         "children": [
           {
-            "id": "9cb0e3d9aa8a1300",
+            "id": "fda2a94f6cb2d06f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAGIシステム各種起動法.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MAGIシステム各種起動法"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,7 +195,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "9cb0e3d9aa8a1300",
+  "active": "fda2a94f6cb2d06f",
   "lastOpenFiles": [
     "MAGIシステム各種起動法.md",
     "デイリーノート 2026/2026.11/2026-11-13（金）.md",
