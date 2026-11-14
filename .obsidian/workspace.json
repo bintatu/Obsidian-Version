@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6ef9eb080e695ec0",
+        "id": "271e5b6b9513cbbc",
         "type": "tabs",
         "children": [
           {
-            "id": "015ded31524aa089",
+            "id": "9cb0e3d9aa8a1300",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAGIシステム各種起動法.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MAGIシステム各種起動法"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,10 +195,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "015ded31524aa089",
+  "active": "9cb0e3d9aa8a1300",
   "lastOpenFiles": [
-    "デイリーノート 2026/2026.11/2026-11-13（金）.md",
     "MAGIシステム各種起動法.md",
+    "デイリーノート 2026/2026.11/2026-11-13（金）.md",
     "magi.py.md",
     "Qwen 起動法.md",
     "Open WebUI アップデート手順.md",
