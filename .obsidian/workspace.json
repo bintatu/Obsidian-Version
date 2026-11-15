@@ -11,10 +11,14 @@
             "id": "98c38c15f1a27d7f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-11-14（土）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2026-11-14（土）"
             }
           }
         ]
@@ -197,6 +201,7 @@
   },
   "active": "98c38c15f1a27d7f",
   "lastOpenFiles": [
+    "2026-11-14（土）.md",
     "死を思え.md",
     "MAGIシステム各種起動法.md",
     "デイリーノート 2026/2026.11/2026-11-13（金）.md",
@@ -222,7 +227,6 @@
     "Tmux 便利帳.md",
     "termux_api battery_logger.md",
     "TM-NETWORK Tailscale ^TM-NETWORK11.md",
-    "Now Core 開発指示書（案）.md",
     "無題のファイル.base",
     "目次.base",
     "デイリーノート 2026/2026.11",
