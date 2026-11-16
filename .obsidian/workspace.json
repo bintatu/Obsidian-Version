@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ab17cfde7789b3d",
+        "id": "7eb72e7d786cd6f8",
         "type": "tabs",
         "children": [
           {
-            "id": "c5894e5dc83cd566",
+            "id": "bc2c9098395b0c6c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5c8d09ed25a81221",
+  "active": "bc2c9098395b0c6c",
   "lastOpenFiles": [
+    "デイリーノート 2026/2026.11/2026-11-01（日）.md",
     "デイリーノート 2026/2026.11/2026-11-14（土）.md",
     "デイリーノート 2026/2026.11/2026-11-15（日）.md",
     "死を思え.md",
@@ -222,7 +223,6 @@
     "TM-NETWORK管理図/TM-NETWORK 配線・接続メモ.md",
     "TM-NETWORK管理図/TM-NETWORK 端末管理台帳.md",
     "Tmux 便利帳.md",
-    "termux_api battery_logger.md",
     "無題のファイル.base",
     "目次.base",
     "デイリーノート 2026/2026.11",
