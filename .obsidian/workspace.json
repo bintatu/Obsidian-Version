@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "94141d248fb50737",
+        "id": "5f8ece4b4c9a0cc2",
         "type": "tabs",
         "children": [
           {
-            "id": "ca3eedf7dc587847",
+            "id": "121213d104b3155a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Llama.cpp update.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Llama.cpp update"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,9 +195,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "ca3eedf7dc587847",
+  "active": "121213d104b3155a",
   "lastOpenFiles": [
     "magi.py.md",
+    "Llama.cpp update.md",
     "MAGIシステム各種起動法.md",
     "Qwen 起動法.md",
     "Song Meaning.md",
@@ -220,7 +217,6 @@
     "死を思え.md",
     "デイリーノート 2026/2026.11/2026-11-13（金）.md",
     "Open WebUI アップデート手順.md",
-    "Llama.cpp update.md",
     "付箋なつぶやき.md",
     "付箋なつぶやき（リンク集）.md",
     "占星術JSONデータ解析（@紬）.md",
