@@ -11,10 +11,14 @@
             "id": "de08ad750ee7bdc8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "香りを楽しむ/気になる香り、欲しい香り.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "気になる香り、欲しい香り"
             }
           }
         ]
