@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f8ece4b4c9a0cc2",
+        "id": "cc4d7d6e6ac9e17b",
         "type": "tabs",
         "children": [
           {
-            "id": "121213d104b3155a",
+            "id": "92ab5d64310a6dd0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "121213d104b3155a",
+  "active": "5c8d09ed25a81221",
   "lastOpenFiles": [
+    "デイリーノート 2026/2026.11/2026-11-18（水）.md",
     "magi.py.md",
     "Llama.cpp update.md",
     "MAGIシステム各種起動法.md",
@@ -222,7 +223,6 @@
     "占星術JSONデータ解析（@紬）.md",
     "実家用セサミリスト.md",
     "💡 Linux同士の本番環境でよく使う「三種の神器」.md",
-    "💡 次のステップへの提案.md",
     "無題のファイル.base",
     "目次.base",
     "デイリーノート 2026/2026.11",
