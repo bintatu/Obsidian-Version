@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f5c1410a5b2fa524",
+        "id": "38934d521e7bb5e0",
         "type": "tabs",
         "children": [
           {
-            "id": "2917bfda53abc818",
+            "id": "c070414f623ad23e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-11-20（金）.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-11-20（金）"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,9 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "2917bfda53abc818",
+  "active": "5c8d09ed25a81221",
   "lastOpenFiles": [
-    "2026-11-20（金）.md",
+    "デイリーノート 2026/2026.11/2026-11-20（金）.md",
     "デイリーノート 2026/2026.11/2026-11-02（月）.md",
     "香りを楽しむ/気になる香り、欲しい香り.md",
     "デイリーノート 2026/2026.11/2026-11-19（木）.md",
