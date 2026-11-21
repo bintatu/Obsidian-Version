@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38934d521e7bb5e0",
+        "id": "cac3a9695e2bb512",
         "type": "tabs",
         "children": [
           {
-            "id": "c070414f623ad23e",
+            "id": "db577e9cedbb35ae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5c8d09ed25a81221",
+  "active": "db577e9cedbb35ae",
   "lastOpenFiles": [
+    "MAGIシステム各種起動法.md",
     "デイリーノート 2026/2026.11/2026-11-20（金）.md",
     "デイリーノート 2026/2026.11/2026-11-02（月）.md",
     "香りを楽しむ/気になる香り、欲しい香り.md",
@@ -205,7 +206,6 @@
     "デイリーノート 2026/2026.11/2026-11-18（水）.md",
     "magi.py.md",
     "Llama.cpp update.md",
-    "MAGIシステム各種起動法.md",
     "Qwen 起動法.md",
     "Song Meaning.md",
     "宅内通信計画.md",
