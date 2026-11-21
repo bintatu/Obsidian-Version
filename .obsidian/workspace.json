@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d5aff4eda4b50a70",
+        "id": "7df4f67c73e27d70",
         "type": "tabs",
         "children": [
           {
-            "id": "e1a515e74969bcd7",
+            "id": "35d1e2faf4395cab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Netがバグった時用.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Netがバグった時用"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,7 +195,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "e1a515e74969bcd7",
+  "active": "35d1e2faf4395cab",
   "lastOpenFiles": [
     "Netがバグった時用.md",
     "緯度経度（全国Q地図参照）.md",
