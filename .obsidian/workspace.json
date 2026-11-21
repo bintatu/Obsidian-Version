@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cac3a9695e2bb512",
+        "id": "d5aff4eda4b50a70",
         "type": "tabs",
         "children": [
           {
-            "id": "db577e9cedbb35ae",
+            "id": "e1a515e74969bcd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "緯度経度.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "緯度経度"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,9 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "db577e9cedbb35ae",
+  "active": "e1a515e74969bcd7",
   "lastOpenFiles": [
-    "緯度経度.md",
+    "緯度経度（全国Q地図参照）.md",
     "MAGIシステム各種起動法.md",
     "デイリーノート 2026/2026.11/2026-11-20（金）.md",
     "デイリーノート 2026/2026.11/2026-11-02（月）.md",
