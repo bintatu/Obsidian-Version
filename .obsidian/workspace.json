@@ -11,10 +11,14 @@
             "id": "db577e9cedbb35ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "緯度経度.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "緯度経度"
             }
           }
         ]
@@ -197,6 +201,7 @@
   },
   "active": "db577e9cedbb35ae",
   "lastOpenFiles": [
+    "緯度経度.md",
     "MAGIシステム各種起動法.md",
     "デイリーノート 2026/2026.11/2026-11-20（金）.md",
     "デイリーノート 2026/2026.11/2026-11-02（月）.md",
@@ -222,7 +227,6 @@
     "デイリーノート 2026/2026.11/2026-11-15（日）.md",
     "死を思え.md",
     "デイリーノート 2026/2026.11/2026-11-13（金）.md",
-    "Open WebUI アップデート手順.md",
     "無題のファイル.base",
     "目次.base",
     "デイリーノート 2026/2026.11",
