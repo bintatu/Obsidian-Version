@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7df4f67c73e27d70",
+        "id": "51b29e298d5f23e3",
         "type": "tabs",
         "children": [
           {
-            "id": "35d1e2faf4395cab",
+            "id": "96d378b3872ba526",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💡Netがバグった時用.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "💡Netがバグった時用"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,10 +195,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "35d1e2faf4395cab",
+  "active": "96d378b3872ba526",
   "lastOpenFiles": [
-    "💡 Linux同士の本番環境でよく使う「三種の神器」.md",
     "💡Netがバグった時用.md",
+    "💡 Linux同士の本番環境でよく使う「三種の神器」.md",
     "緯度経度（全国Q地図参照）.md",
     "MAGIシステム各種起動法.md",
     "デイリーノート 2026/2026.11/2026-11-20（金）.md",
