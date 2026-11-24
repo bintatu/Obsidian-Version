@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5390ca24527c7a76",
+        "id": "ba1bf1aa5bb2789d",
         "type": "tabs",
         "children": [
           {
-            "id": "b2ffc0054bc928ec",
+            "id": "3a9058935be6ffed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-11-23（月）.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-11-23（月）"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,10 +195,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "b2ffc0054bc928ec",
+  "active": "5c8d09ed25a81221",
   "lastOpenFiles": [
     "デイリーノート 2026/2026.11/2026-11-22（日）.md",
-    "2026-11-23（月）.md",
+    "デイリーノート 2026/2026.11/2026-11-23（月）.md",
     "Termix アップデート手順.md",
     "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
     "デイリーノート 2026/2026.11/2026-11-21（土）.md",
