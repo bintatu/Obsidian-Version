@@ -11,10 +11,14 @@
             "id": "b2ffc0054bc928ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-11-23（月）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2026-11-23（月）"
             }
           }
         ]
@@ -195,9 +199,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "5c8d09ed25a81221",
+  "active": "b2ffc0054bc928ec",
   "lastOpenFiles": [
     "デイリーノート 2026/2026.11/2026-11-22（日）.md",
+    "2026-11-23（月）.md",
     "Termix アップデート手順.md",
     "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
     "デイリーノート 2026/2026.11/2026-11-21（土）.md",
@@ -222,7 +227,6 @@
     "デイリーノート 2026/2026.11/2026-11-17（火）.md",
     "2026 10大パワーワード.md",
     "M715q リバイバル計画.md",
-    "デイリーノート 2026/2026.11/2026-11-16（月）.md",
     "無題のファイル.base",
     "目次.base",
     "デイリーノート 2026/2026.11",
