@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9c0e74c2ed5d6bd6",
+        "id": "eb81621a477ff837",
         "type": "tabs",
         "children": [
           {
-            "id": "6d3f1b5241af24e6",
+            "id": "774a57242c784fbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TM-NETWORK Mermaid図"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,8 +195,11 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "6d3f1b5241af24e6",
+  "active": "774a57242c784fbc",
   "lastOpenFiles": [
+    "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
+    "TM-NETWORK管理図/TM-NETWORK Mermaid図.md",
+    "TM-NETWORK管理図/TM-NETWORK.drawio",
     "トポロジー図などの作成ツール.md",
     "デイリーノート 2026/2026.11/2026-11-05（木）.md",
     "デイリーノート 2026/2026.11/2026-11-24（火）.md",
@@ -209,7 +208,6 @@
     "デイリーノート 2026/2026.11/2026-11-23（月）.md",
     "デイリーノート 2026/2026.11/2026-11-22（日）.md",
     "Termix アップデート手順.md",
-    "TM-NETWORK管理図/TM-NETWORK Tailscale.md",
     "デイリーノート 2026/2026.11/2026-11-21（土）.md",
     "💡Netがバグった時用.md",
     "💡 Linux同士の本番環境でよく使う「三種の神器」.md",
@@ -226,7 +224,6 @@
     "Song Meaning.md",
     "宅内通信計画.md",
     "宅内表示計画 AI スマートスピーカ（改）M5 Stack表示器計画.md",
-    "宅内表示計画.md",
     "無題のファイル.base",
     "目次.base",
     "デイリーノート 2026/2026.11",
@@ -244,7 +241,6 @@
     "無題のファイル 3.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル 1.canvas",
-    "デイリーノート 2026/2026.09",
-    "デイリーノート 2026/2026.08"
+    "デイリーノート 2026/2026.09"
   ]
 }
