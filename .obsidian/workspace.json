@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ecbef73466a4696",
+        "id": "b3850bf7db906b14",
         "type": "tabs",
         "children": [
           {
-            "id": "fb40dfb1fe927903",
+            "id": "0b8cff113867fdf8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "fb40dfb1fe927903",
+  "active": "0b8cff113867fdf8",
   "lastOpenFiles": [
+    "デイリーノート 2026/2026.11/2026-11-05（木）.md",
     "デイリーノート 2026/2026.11/2026-11-24（火）.md",
     "Weechat キー操作.md",
     "Weechat のコミッとした設定.md",
@@ -222,7 +223,6 @@
     "宅内表示計画 AI スマートスピーカ（改）M5 Stack表示器計画.md",
     "宅内表示計画.md",
     "宅内同期計画 AI NAS 建造編.md",
-    "宅内同期計画.md",
     "無題のファイル.base",
     "目次.base",
     "デイリーノート 2026/2026.11",
