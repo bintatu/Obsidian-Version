@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be01f3640967a4df",
+        "id": "8ecbef73466a4696",
         "type": "tabs",
         "children": [
           {
-            "id": "a8ac2714c4a0618b",
+            "id": "fb40dfb1fe927903",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5
   },
   "right": {
     "id": "6409378bd4c5d2ee",
@@ -195,8 +195,9 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "a8ac2714c4a0618b",
+  "active": "fb40dfb1fe927903",
   "lastOpenFiles": [
+    "デイリーノート 2026/2026.11/2026-11-24（火）.md",
     "Weechat キー操作.md",
     "Weechat のコミッとした設定.md",
     "デイリーノート 2026/2026.11/2026-11-23（月）.md",
@@ -222,7 +223,6 @@
     "宅内表示計画.md",
     "宅内同期計画 AI NAS 建造編.md",
     "宅内同期計画.md",
-    "デイリーノート 2026/2026.11/2026-11-17（火）.md",
     "無題のファイル.base",
     "目次.base",
     "デイリーノート 2026/2026.11",
