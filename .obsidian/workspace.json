@@ -11,10 +11,14 @@
             "id": "c1ee270c3cfce6ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-11-27（金）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2026-11-27（金）"
             }
           }
         ]
@@ -197,6 +201,7 @@
   },
   "active": "c1ee270c3cfce6ea",
   "lastOpenFiles": [
+    "2026-11-27（金）.md",
     "デイリーノート 2026/2026.11/2026-11-03（火）.md",
     "デイリーノート 2026/2026.11/2026-11-26（木）.md",
     "【作業ログ】Tera TermでのSSH秘密鍵ログイン不具合と検証記録.md",
@@ -223,7 +228,6 @@
     "デイリーノート 2026/2026.11/2026-11-19（木）.md",
     "デイリーノート 2026/2026.11/2026-11-18（水）.md",
     "magi.py.md",
-    "Llama.cpp update.md",
     "無題のファイル.base",
     "目次.base",
     "デイリーノート 2026/2026.11",
